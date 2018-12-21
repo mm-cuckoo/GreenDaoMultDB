@@ -144,5 +144,12 @@ public class DatabaseADaoMaster extends DaoMaster{
 }
 ```
 
-上面就greenDao分库实现的方法介绍
+上面就greenDao分库实现的方法介绍.
+
+上面示例工程使用GreenDao实现分库功能，对部分内容进行封装。
+
+示例内容：
+1. 多库路径统一管理
+2. 统一管理不同库的Session
+3. 使用MigrationHelper升级数据库
 
