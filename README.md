@@ -1,8 +1,8 @@
 #### 前言
 这是一篇介绍如何使用greenDao框架实现分库的文章。如果你对greenDao如何使用还不是很了解，下面有几篇文章推荐：   
-https://blog.csdn.net/qq_35956194/article/details/79167897   
-https://www.jianshu.com/p/4e6d72e7f57a 
-https://blog.csdn.net/poorkick/article/details/55271660  
+https://blog.csdn.net/qq_35956194/article/details/79167897     
+https://www.jianshu.com/p/4e6d72e7f57a   
+https://blog.csdn.net/poorkick/article/details/55271660    
 
 #### 解决问题
 如果要使用greenDao实现分库，要解决下面两个问题：
